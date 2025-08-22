@@ -1,5 +1,5 @@
-name: VoltDB CI and Release
 
+name: VoltDB CI and Release
 on:
   push:
     branches: [ "main", "master" ]
