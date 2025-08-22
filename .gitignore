@@ -84,3 +84,5 @@ tools/ee/ee_auto_generated_unit_tests
 
 *.class
 CLAUDE.md
+.idea/
+.vscode/
